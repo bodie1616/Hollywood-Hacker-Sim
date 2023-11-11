@@ -1,5 +1,6 @@
 import time
 import os
+os.system("cls")
 print("Welcome To Bank Of America CLI")
 var = input(">> ")
 if var == "execute from Code.org/code/do":
